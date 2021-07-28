@@ -1,3 +1,7 @@
+# Note
+
+This project never made it past the design document stage and is now archived.
+
 # A Natural
 
 The goal of this project is to produce an AROS-specific framework for statically compiled languages without a garbage-collection requirement.  It will be modelled after the C++14 STL and other frameworks built on top of it.  Among the chief goals is to implement the entire LLVM compiler framework with reentrant, thread-safe, AROS shared libraries.
